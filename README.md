@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on `How to write C++ programs with high performance?` and `How to mine good factors?`.
-- 🌱 I’m currently learning `C++`, `CMake`, `Machine Learning` and `Factor Investing`.
-- 💬 Ask me about `How to use Python AST?`, `How to parse ini files?` and `How to train LGBM models?`. 
+- 🔭 I’m currently working on `How to write C/C++ programs with high performance?` and `How to develop quant trading systems?`.
+- 🌱 I’m currently learning `Modern C++`, `HFT`, `Market Feed` and `Cryptocurrency`.
+- 💬 Ask me about `How to develop efficient C++ programs?`, `How to construct orderbook?` and `How to train LGBM faster?`. 
 - 📫 How to reach me: welcome to visit [my homepage](https://allensun1024.github.io/)!
